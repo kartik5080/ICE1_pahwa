@@ -43,4 +43,8 @@ public class Card {
     public void setValue(int value) {
         this.value = value;
     }  
+    public String toString()
+    {
+        return "the generated value on the card is "+ value + "and the suit is "+ suit;
+    }
 }
