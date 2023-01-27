@@ -8,7 +8,7 @@ import java.util.Scanner;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *
- * @author dancye
+ * @author pahwa5080
  * @author Paul Bonenfant Jan 25, 2022 
  */
 public class CardTrick {
@@ -83,17 +83,17 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is kartik pahwa, but you can call me kartik");
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
+        System.out.println("-- Be more active on linkedin");
         System.out.println("-- Have a semester with no violations of academic integrity!");
 	System.out.println();	
 
         System.out.println("My hobbies:");
         System.out.println("-- Investing");
-        System.out.println("-- Cooking");
+        System.out.println("-- Badminton");
         System.out.println("-- Reading/Watching TV");
         System.out.println("-- Riding my motorcycle");
 
